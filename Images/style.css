@@ -1,6 +1,6 @@
 body {
-    background-color: blue;
-    color:white;
+    background-color: white;
+    color:red;
 }
 h1 {
 
@@ -8,6 +8,6 @@ h1 {
   text-align:center;
 }
 table,th,td{
-  
-  border:4px solid white;
+
+  border:4px solid blue;
 }
